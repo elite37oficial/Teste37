@@ -53,6 +53,9 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'Você pressionou o botão 121544152185:',
             ),
+            const Text(
+              'Texto Valdir',
+            ),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
